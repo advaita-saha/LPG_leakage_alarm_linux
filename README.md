@@ -7,3 +7,6 @@ This is a project to be installed on linux PCs for the detection and alarm notif
 Arduino Microcontroller Board
 
 LPG Gas Sensor(MQ3)
+
+# Steps to install the system
+First we need to install all the supporting packages
